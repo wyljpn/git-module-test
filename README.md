@@ -13,12 +13,12 @@ go: creating new go.mod: module github.com/wyljpn/saihi
 ```go
 
 func main() {
-fmt.Println("hello world 😀😀😀")
+    fmt.Println("hello world 😀😀😀")
 
 }
 
 func HelloWorld() string {
-return "Yulong"
+    return "Yulong"
 }
 
 ```

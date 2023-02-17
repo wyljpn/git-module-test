@@ -1,3 +1,3 @@
-module github.com/wyljpn/saihi
+module github.com/git-module-test/saihi
 
 go 1.19
